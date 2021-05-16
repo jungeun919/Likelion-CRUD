@@ -8,7 +8,7 @@
 
 - [ ] Update
 
-- [] Delete
+- [ ] Delete
 
 ---
 <br>
