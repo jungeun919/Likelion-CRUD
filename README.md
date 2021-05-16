@@ -1,15 +1,16 @@
 # **Django - 6회차 CRUD**
 
-[ ] Model & Admin
+- [ ] Model & Admin
 
-[ ] Create
+- [ ] Create
 
-[ ] Read
+- [ ] Read
 
-[ ] Update
+- [ ] Update
 
-[ ] Delete
+- [] Delete
 
+---
 <br>
 
 ## **세션 준비**
