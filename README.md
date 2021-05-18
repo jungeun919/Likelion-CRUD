@@ -26,7 +26,9 @@
 
     * mac
     ```python
-    python -m venv myvenv
+    source myvenv/bin/activate 또는
+
+    . myvenv/bin/activate
     ```
 
 3. django 설치
